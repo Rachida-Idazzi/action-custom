@@ -1,0 +1,22 @@
+{
+  "name": "action-custom",
+  "version": "1.0.0",
+  "description": "action-custom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rachida-Idazzi/action-custom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rachida-Idazzi/action-custom/issues"
+  },
+  "homepage": "https://github.com/Rachida-Idazzi/action-custom#readme",
+  "dependencies": {
+    "@actions/core": "^3.0.1"
+  }
+}
