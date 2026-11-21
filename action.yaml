@@ -2,13 +2,13 @@ name: CoderCo custom action
 
 description: Greet someone
 
-inputs: 
+inputs:
   who-to-greet:
     description: who to greet 
     required: true
     default: Hello
 
-Outputs:
+outputs:
   time:
     description: time greeted
 
