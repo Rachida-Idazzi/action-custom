@@ -13,5 +13,4 @@ jobs:
     - name: hello world custom action
       uses: Rachida-Idazzi/action-custom@main
       with:
-        input:
-          who-to-greet: 'CoderCo Team'
+        who-to-greet: 'CoderCo Team'
